@@ -1,0 +1,6 @@
+[submodule "copa-filmes-backend"]
+	path = copa-filmes-backend
+	url = http://github.com/caiobep/copa-filmes-backend
+[submodule "copa-filmes-frontend"]
+	path = copa-filmes-frontend
+	url = http://github.com/caiobep/copa-filmes-frontend
